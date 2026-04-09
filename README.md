@@ -37,6 +37,7 @@ This project was built as part of a technical assignment to demonstrate practica
 
 ## 📂 Project Structure
 
+```
 task-manager-pooja/
 │
 ├── backend/
@@ -46,13 +47,15 @@ task-manager-pooja/
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
+│   │   │   ├── TaskForm.jsx
+│   │   │   ├── TaskList.jsx
+│   │   │   └── TaskItem.jsx
 │   │   ├── App.jsx
 │   │   └── api.js
 │   └── package.json
 │
 └── README.md
-
----
+```
 
 ## ⚙️ Setup Instructions
 
